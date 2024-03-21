@@ -10,7 +10,6 @@
 from os import system 
 from time import sleep
 from tasks.routine import Routine 
-from tasks.metadata import Metadata
 from data.alphavantage import AlphaVantage
 
 class QACLI:
